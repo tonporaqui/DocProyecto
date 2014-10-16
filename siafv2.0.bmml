@@ -680,5 +680,10 @@
         <text>Ventas%2C%20Total%2C%20Costo%2C%20Ganancia%0A1%2C%202450%2C%200%2C%202350</text>
       </controlProperties>
     </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::Tooltip" x="742" y="1413" w="139" h="72" measuredW="139" measuredH="0" zOrder="137" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mensaje%20de%20accion%0AError%20o%20Exitosa</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
